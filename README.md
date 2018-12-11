@@ -1,3 +1,3 @@
 # Tetris
 Tetris - one of the most known computer game
-This is a project of Tetris.
+This is a complete project of Tetris. It was made in Java
