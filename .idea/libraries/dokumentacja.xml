@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dokumentacja">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Tetris/dokumentacja/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Tetris/dokumentacja/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
