@@ -2,8 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179a0939-4b5d-4fbf-bc88-87386b129d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/Dzwiek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/Klocek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/Okno.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/Plansza.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/RuchKlocka.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/dokumentacja/type-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/Dzwiek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/Klocek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/Okno.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/Plansza.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/RuchKlocka.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokumentacja/type-search-index.zip" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,9 +125,10 @@
     <session id="-1284910133">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,11 +156,11 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Okno.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="17">
               <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,6 +208,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,14 +226,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544553190987" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544553832096" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -170,27 +279,23 @@
       <option name="presentableId" value="Default" />
       <updated>1544551713280</updated>
       <workItem from="1544551716284" duration="1480000" />
+      <workItem from="1544553796091" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1480000" />
+    <option name="totallyTimeSpent" value="1540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32903227" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
@@ -198,15 +303,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32903227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,12 +326,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/manifest">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/manifest" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Okno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="17">
           <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
